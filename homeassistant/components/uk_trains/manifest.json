@@ -1,0 +1,14 @@
+{
+  "domain": "uk_trains",
+  "name": "UK Trains",
+  "codeowners": ["@josh-justjosh"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/josh-justjosh/ha-core/wiki",
+  "homekit": {},
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
